@@ -1,5 +1,5 @@
 La apk funciona en las versiones de android:
-8.1.0 oreo
+8.1.0 (Oreo)
 12.0 (S)
 11.0 (R)
 
